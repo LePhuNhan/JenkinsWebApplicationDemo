@@ -6,7 +6,7 @@ namespace JenkinsWebApplicationDemo.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
-        string abc = "1";
+        string abc = "0";
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
