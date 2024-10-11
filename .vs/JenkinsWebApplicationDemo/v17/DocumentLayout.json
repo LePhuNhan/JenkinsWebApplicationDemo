@@ -1,26 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\JenkinsWebApplicationDemo\\",
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\JenkinsWebApplication\\JenkinsWebApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8A61147-B25A-4DE2-9CB3-A53D1055805A}|JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj|c:\\users\\admin\\source\\repos\\jenkinswebapplicationdemo\\jenkinswebapplicationdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8A61147-B25A-4DE2-9CB3-A53D1055805A}|JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj|solutionrelative:jenkinswebapplicationdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE40DED6-602F-43DF-86E3-816FBB75C31C}|JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj|c:\\users\\admin\\downloads\\jenkinswebapplication\\jenkinswebapplication\\jenkinswebapplicationdemo\\jenkinswebapplicationdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE40DED6-602F-43DF-86E3-816FBB75C31C}|JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj|solutionrelative:jenkinswebapplicationdemo\\jenkinswebapplicationdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8A61147-B25A-4DE2-9CB3-A53D1055805A}|JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj|c:\\users\\admin\\source\\repos\\jenkinswebapplicationdemo\\jenkinswebapplicationdemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8A61147-B25A-4DE2-9CB3-A53D1055805A}|JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj|solutionrelative:jenkinswebapplicationdemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8A61147-B25A-4DE2-9CB3-A53D1055805A}|JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj|c:\\users\\admin\\source\\repos\\jenkinswebapplicationdemo\\jenkinswebapplicationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8A61147-B25A-4DE2-9CB3-A53D1055805A}|JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj|solutionrelative:jenkinswebapplicationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8A61147-B25A-4DE2-9CB3-A53D1055805A}|JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj|c:\\users\\admin\\source\\repos\\jenkinswebapplicationdemo\\jenkinswebapplicationdemo\\jenkinswebapplicationdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A8A61147-B25A-4DE2-9CB3-A53D1055805A}|JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj|solutionrelative:jenkinswebapplicationdemo\\jenkinswebapplicationdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8A61147-B25A-4DE2-9CB3-A53D1055805A}|JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj|c:\\users\\admin\\source\\repos\\jenkinswebapplicationdemo\\jenkinswebapplicationdemo\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A8A61147-B25A-4DE2-9CB3-A53D1055805A}|JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj|solutionrelative:jenkinswebapplicationdemo\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{1D02A738-932D-443B-AF38-C050C702EBA1}|TestProject1\\TestProject1.csproj|c:\\users\\admin\\downloads\\jenkinswebapplication\\jenkinswebapplication\\testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D02A738-932D-443B-AF38-C050C702EBA1}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -47,63 +39,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "JenkinsWebApplicationDemo\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "JenkinsWebApplicationDemo\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T00:31:06.196Z",
+              "Title": "JenkinsWebApplicationDemo",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\JenkinsWebApplication\\JenkinsWebApplication\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
+              "RelativeDocumentMoniker": "JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\JenkinsWebApplication\\JenkinsWebApplication\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
+              "RelativeToolTip": "JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T00:52:47.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "JenkinsWebApplicationDemo\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\WeatherForecast.cs",
-              "RelativeToolTip": "JenkinsWebApplicationDemo\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T00:31:03.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\Program.cs",
-              "RelativeDocumentMoniker": "JenkinsWebApplicationDemo\\Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\Program.cs",
-              "RelativeToolTip": "JenkinsWebApplicationDemo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T00:30:57.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "JenkinsWebApplicationDemo.csproj",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
-              "RelativeDocumentMoniker": "JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
-              "RelativeToolTip": "JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
+              "Title": "TestProject1",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\JenkinsWebApplication\\JenkinsWebApplication\\TestProject1\\TestProject1.csproj",
+              "RelativeDocumentMoniker": "TestProject1\\TestProject1.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\JenkinsWebApplication\\JenkinsWebApplication\\TestProject1\\TestProject1.csproj",
+              "RelativeToolTip": "TestProject1\\TestProject1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-10T07:31:30.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FolderProfile.pubxml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\Properties\\PublishProfiles\\FolderProfile.pubxml",
-              "RelativeDocumentMoniker": "JenkinsWebApplicationDemo\\Properties\\PublishProfiles\\FolderProfile.pubxml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\Properties\\PublishProfiles\\FolderProfile.pubxml",
-              "RelativeToolTip": "JenkinsWebApplicationDemo\\Properties\\PublishProfiles\\FolderProfile.pubxml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-10-09T03:49:06.666Z"
+              "WhenOpened": "2024-10-11T00:52:42.883Z",
+              "EditorCaption": ""
             }
           ]
         },
