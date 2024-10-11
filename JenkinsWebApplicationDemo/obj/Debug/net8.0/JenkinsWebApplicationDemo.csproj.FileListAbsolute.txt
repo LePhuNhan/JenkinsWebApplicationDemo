@@ -30,3 +30,4 @@ C:\Users\ADMIN\source\repos\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\
 C:\Users\ADMIN\source\repos\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Debug\net8.0\JenkinsWebApplicationDemo.pdb
 C:\Users\ADMIN\source\repos\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Debug\net8.0\JenkinsWebApplicationDemo.genruntimeconfig.cache
 C:\Users\ADMIN\source\repos\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Debug\net8.0\ref\JenkinsWebApplicationDemo.dll
+C:\Users\ADMIN\source\repos\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Debug\net8.0\JenkinsWebApplicationDemo.sourcelink.json
