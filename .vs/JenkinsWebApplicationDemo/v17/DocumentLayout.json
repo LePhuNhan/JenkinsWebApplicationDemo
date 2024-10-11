@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "JenkinsWebApplicationDemo\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "JenkinsWebApplicationDemo\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T00:31:06.196Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "JenkinsWebApplicationDemo\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T00:31:03.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T00:31:03.988Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "JenkinsWebApplicationDemo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T00:30:57.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T00:30:57.157Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-10T07:31:30.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T07:31:30.361Z"
             },
             {
               "$type": "Document",
